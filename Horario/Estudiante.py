@@ -1,0 +1,2 @@
+nombreEstudiante = str
+codigo = str

@@ -1,0 +1,2 @@
+nombre = str
+creditos = float

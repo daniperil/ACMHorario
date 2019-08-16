@@ -1,0 +1,2 @@
+nombreClase = str
+descripcrion = str
